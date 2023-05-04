@@ -1,7 +1,7 @@
 baseURL: ''
 languageCode: en-us
 title: 'Carolyn Ho'
-theme: github.com/adityatelange/hugo-PaperMod
+theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
