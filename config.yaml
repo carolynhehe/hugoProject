@@ -1,7 +1,7 @@
 baseURL: ''
 languageCode: en-us
 title: 'Carolyn Ho'
-theme: ../PaperMod
+theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
