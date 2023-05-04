@@ -21,13 +21,13 @@ languages:
         menu:
             main:
                 - name: Work
-                  url: ./work
+                  url: work
                   weight: 3
                 - name: Play
-                  url: ./play
+                  url: play
                   weight: 6
                 - name: Resume
-                  url: ./resume
+                  url: resume
         profileMode:
             enabled: true
             title: Hi there! 
