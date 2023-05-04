@@ -51,7 +51,7 @@ languages:
           resume: resume
         menu:
             main:
-                - name: 工作間ssssss
+                - name: 工作間
                   url: ../work-cn
                   weight: 3
                 - name: 遊樂園
