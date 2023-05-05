@@ -21,10 +21,10 @@ languages:
         menu:
             main:
                 - name: Work
-                  url: work/
+                  url: ./work
                   weight: 3
                 - name: Play
-                  url: play
+                  url: play2
                   weight: 6
                 - name: Resume
                   url: resume
