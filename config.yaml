@@ -21,7 +21,7 @@ languages:
         menu:
             main:
                 - name: Work
-                  url: ./work-en/work
+                  url: ./work-en
                   weight: 3
                 - name: Play
                   url: ./work-en/play
@@ -47,7 +47,7 @@ languages:
         title: 何荷的作品集
         taxonomies:
           work: 工作間
-          play: play
+          play: 遊樂園
           resume: resume
         menu:
             main:
