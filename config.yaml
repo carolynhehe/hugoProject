@@ -21,7 +21,7 @@ languages:
         menu:
             main:
                 - name: Work
-                  url: ./work
+                  url: work/
                   weight: 3
                 - name: Play
                   url: play
@@ -40,36 +40,36 @@ languages:
                 - name: Let's chat
                   url: https://discord.gg/TjUNmZUNFP
     
-    中:
-        languageName: "Chinese"
-        languageAltTitle: Chinese
-        weight: 2
-        title: 何荷的作品集
-        taxonomies:
-          work: 工作間
-          play: 遊樂園
-          resume: 簡歷
-        menu:
-            main:
-                - name: 工作間
-                  url: ../work-cn
-                  weight: 3
-                - name: 遊樂園
-                  url: ../play.cn
-                  weight: 6
-                - name: 簡歷
-                  url: ../resume.cn
-        profileMode:
-            enabled: true
-            title: 嗨，你好! 
-            imageUrl: "https://user-images.githubusercontent.com/89154660/228745585-7465d8aa-e6d8-479f-80e1-ac40a4d3bd0c.svg"
-            imageTitle: My Avatar
-            subtitle: "我是何荷，一個設計師💻, 一個體驗追求家🖼️, 也是一個新手養育者🍼. "
-            buttons:
-                - name: 我的作品集
-                  url: ../work-cn
-                - name: 客官這邊請
-                  url: https://discord.gg/TjUNmZUNFP
+    # 中:
+    #     languageName: "Chinese"
+    #     languageAltTitle: Chinese
+    #     weight: 2
+    #     title: 何荷的作品集
+    #     taxonomies:
+    #       work: 工作間
+    #       play: 遊樂園
+    #       resume: 簡歷
+    #     menu:
+    #         main:
+    #             - name: 工作間
+    #               url: ../work-cn
+    #               weight: 3
+    #             - name: 遊樂園
+    #               url: ../play.cn
+    #               weight: 6
+    #             - name: 簡歷
+    #               url: ../resume.cn
+    #     profileMode:
+    #         enabled: true
+    #         title: 嗨，你好! 
+    #         imageUrl: "https://user-images.githubusercontent.com/89154660/228745585-7465d8aa-e6d8-479f-80e1-ac40a4d3bd0c.svg"
+    #         imageTitle: My Avatar
+    #         subtitle: "我是何荷，一個設計師💻, 一個體驗追求家🖼️, 也是一個新手養育者🍼. "
+    #         buttons:
+    #             - name: 我的作品集
+    #               url: ../work-cn
+    #             - name: 客官這邊請
+    #               url: https://discord.gg/TjUNmZUNFP
 
 params:
     defaultTheme: light
