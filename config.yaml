@@ -24,10 +24,10 @@ languages:
                   url: ./work-en
                   weight: 3
                 - name: Play
-                  url: ./work-en/play
+                  url: ./play
                   weight: 6
                 - name: Resume
-                  url: ./work-en/resume
+                  url: ./resume
         profileMode:
             enabled: true
             title: Hi there! 
@@ -48,7 +48,7 @@ languages:
         taxonomies:
           work: 工作間
           play: 遊樂園
-          resume: resume
+          resume: 簡歷
         menu:
             main:
                 - name: 工作間
