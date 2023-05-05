@@ -36,7 +36,7 @@ languages:
             subtitle: "I am a Designer💻, an Experience Seeker🖼️, a Mom of One🍼. "
             buttons:
                 - name: Work
-                  url: work/
+                  url: post/
                 - name: Let's chat
                   url: https://discord.gg/TjUNmZUNFP
     
