@@ -21,7 +21,7 @@ languages:
         menu:
             main:
                 - name: Work
-                  url: work/
+                  url: post/
                   weight: 3
                 - name: Play
                   url: play2

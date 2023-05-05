@@ -1,5 +1,5 @@
 ---
-title: "Resume2"
+title: "Resume"
 draft: false
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "lcbo"
+title: "LCBO@home"
 description: "Your virtual liquor cabinet - with a twist!"
 draft: false
 ShowBreadCrumbs: true
