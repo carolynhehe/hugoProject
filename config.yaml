@@ -27,7 +27,7 @@ languages:
                   url: play2
                   weight: 6
                 - name: Resume
-                  url: resume
+                  url: resume2
         profileMode:
             enabled: true
             title: Hi there! 
