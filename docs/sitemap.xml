@@ -1,45 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>/post/hackhub/</loc>
-  </url><url>
-    <loc>/work/hackhub/</loc>
-  </url><url>
-    <loc>/post/mgr/</loc>
-  </url><url>
-    <loc>/work/mgr/</loc>
-  </url><url>
-    <loc>/</loc>
-  </url><url>
-    <loc>/post/lcbo/</loc>
-  </url><url>
-    <loc>/work/lcbo@home/</loc>
-  </url><url>
-    <loc>/play/</loc>
-  </url><url>
-    <loc>/play/</loc>
-  </url><url>
-    <loc>/play2/</loc>
-  </url><url>
-    <loc>/post/</loc>
-  </url><url>
-    <loc>/resume/</loc>
-  </url><url>
-    <loc>/resume/</loc>
-  </url><url>
-    <loc>/resume2/</loc>
-  </url><url>
-    <loc>/work/</loc>
-  </url><url>
-    <loc>/work/</loc>
-  </url><url>
-    <loc>/post/zmask/</loc>
-  </url><url>
-    <loc>/work/zmask/</loc>
-  </url><url>
-    <loc>/play.cn/</loc>
-  </url><url>
-    <loc>/resume.cn/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>%E4%B8%AD/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>

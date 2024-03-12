@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Carolyn Ho</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Carolyn Ho</description>
+    <title>Work-cns on Carolyn Ho</title>
+    <link>/work-cn/</link>
+    <description>Recent content in Work-cns on Carolyn Ho</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/work-cn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HackHub</title>
-      <link>/post/hackhub/</link>
+      <link>/work-cn/hackhub/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/hackhub/</guid>
+      <guid>/work-cn/hackhub/</guid>
       <description>Type Responsive Landing Pages / Web Platforms / UI Libraries
 Time May 2021 - November 2022
 Skills UI Design / Interaction Design / Project Management
@@ -23,10 +23,10 @@ Hackathon Management Platform Design System &amp;amp; Library </description>
     
     <item>
       <title>My GoodReal</title>
-      <link>/post/mgr/</link>
+      <link>/work-cn/mgr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/mgr/</guid>
+      <guid>/work-cn/mgr/</guid>
       <description>Type SaaS product in real estate industry (Desktop)
 Time September 2020 - March 2021
 Skills Scrum / Interview / User Journey
@@ -37,19 +37,19 @@ Many brokers lack experience in website design, set up domain, and server manage
     
     <item>
       <title>LCBO@home</title>
-      <link>/post/lcbo/</link>
+      <link>/work-cn/lcbo@home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/lcbo/</guid>
+      <guid>/work-cn/lcbo@home/</guid>
       <description>Your virtual liquor cabinet - with a twist!</description>
     </item>
     
     <item>
       <title>Zmask</title>
-      <link>/post/zmask/</link>
+      <link>/work-cn/zmask/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/zmask/</guid>
+      <guid>/work-cn/zmask/</guid>
       <description>Wear makeup instantly in immersive environment.</description>
     </item>
     
