@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Work on Carolyn Ho</title>
+    <title>Works on Carolyn Ho</title>
     <link>/work/</link>
-    <description>Recent content in Work on Carolyn Ho</description>
+    <description>Recent content in Works on Carolyn Ho</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="/work/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
-itle>HackHub</title>
+    <item>
+      <title>HackHub</title>
       <link>/work/hackhub/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
