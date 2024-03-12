@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Works on Carolyn Ho</title>
-    <link>/work/</link>
-    <description>Recent content in Works on Carolyn Ho</description>
+    <title>Posts on Carolyn Ho</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Carolyn Ho</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/work/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HackHub</title>
-      <link>/work/hackhub/</link>
+      <link>/post/hackhub/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/work/hackhub/</guid>
+      <guid>/post/hackhub/</guid>
       <description>Type Responsive Landing Pages / Web Platforms / UI Libraries
 Time May 2021 - November 2022
 Skills UI Design / Interaction Design / Project Management
@@ -23,10 +23,10 @@ Hackathon Management Platform Design System &amp;amp; Library </description>
     
     <item>
       <title>My GoodReal</title>
-      <link>/work/mgr/</link>
+      <link>/post/mgr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/work/mgr/</guid>
+      <guid>/post/mgr/</guid>
       <description>Type SaaS product in real estate industry (Desktop)
 Time September 2020 - March 2021
 Skills Scrum / Interview / User Journey
@@ -37,19 +37,19 @@ Many brokers lack experience in website design, set up domain, and server manage
     
     <item>
       <title>LCBO@home</title>
-      <link>/work/lcbo@home/</link>
+      <link>/post/lcbo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/work/lcbo@home/</guid>
+      <guid>/post/lcbo/</guid>
       <description>Your virtual liquor cabinet - with a twist!</description>
     </item>
     
     <item>
       <title>Zmask</title>
-      <link>/work/zmask/</link>
+      <link>/post/zmask/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/work/zmask/</guid>
+      <guid>/post/zmask/</guid>
       <description>Wear makeup instantly in immersive environment.</description>
     </item>
     
