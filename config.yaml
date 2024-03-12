@@ -1,3 +1,4 @@
+publishDir: "docs"
 baseURL: ''
 languageCode: en-us
 title: 'Carolyn Ho'
